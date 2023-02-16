@@ -5,3 +5,4 @@ git add .
 git commit -m "Descripcion" (Creo el commit)
 git checkout main (Voy a la raiz para hacer el merge)
 git merge nombre (Cambio el nombre)
+git push (Subo a github)
