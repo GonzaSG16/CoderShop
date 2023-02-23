@@ -1,0 +1,21 @@
+{
+  "name": "html---copia-(2)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "sass --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzaSG16/CoderShop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzaSG16/CoderShop/issues"
+  },
+  "homepage": "https://github.com/GonzaSG16/CoderShop#readme",
+  "description": ""
+}
