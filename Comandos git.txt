@@ -1,8 +1,8 @@
-git branch nombre (Creo la nueva rama)
+git branch "nombre" (Creo la nueva rama)
 git checkout nombre (Voy a la rama)
 (Modifico el codigo y una vez terminado:)
 git add .
 git commit -m "Descripcion" (Creo el commit)
 git checkout main (Voy a la raiz para hacer el merge)
-git merge nombre (Cambio el nombre)
+git merge nombre (Fusiono el branch junto con el mail) * CUIDADO!
 git push (Subo a github)
