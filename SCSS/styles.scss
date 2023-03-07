@@ -1145,13 +1145,13 @@ header.header-mobile {
 	}
 }
 header.header-mobile.header-light {
-	background: none;
+	background: #0EC3F7;
 	background: #fff;
 	#menu-btn {
-		background: none;
+		background: #0EC3F7;
 		color: $color_8;
 		&:hover {
-			background: none;
+			background: #0EC3F7;
 		}
 	}
 }
@@ -2072,13 +2072,13 @@ a.btn-custom {
 	}
 	font-family: $font-family_3;
 	font-size: 12px;
-	min-width: 120px;
+	min-width: 95px;
 	color: $color_2;
 	border-radius: 30px;
 	-moz-border-radius: 30px;
 	-webkit-border-radius: 30px;
 	padding: 12px 30px;
-	min-width: 120px;
+	min-width: 95px;
 	outline: 0;
 	font-weight: bold;
 	text-decoration: none;
@@ -2090,7 +2090,7 @@ a.btn-custom {
 		-moz-border-radius: 30px;
 		-webkit-border-radius: 30px;
 		padding: 12px 30px;
-		min-width: 120px;
+		min-width: 95px;
 		outline: 0;
 		font-weight: bold;
 		text-decoration: none;
@@ -2129,17 +2129,17 @@ a.btn-custom {
 		color: $color_2;
 		-webkit-box-shadow: 2px 2px 20px 0px rgba(20,20,20, 0.3);
 		-moz-box-shadow: 2px 2px 20px 0px rgba(20,20,20, 0.3);
-		box-shadow: 2px 2px 20px 0px rgba(20,20,20, 0.3);
+		box-shadow: 5px 5px 20px 0px rgba(20,20,20, 0.3);
 	}
 	font-family: $font-family_3;
 	font-size: 12px;
-	min-width: 120px;
+	min-width: 95px;
 	color: $color_2;
 	border-radius: 30px;
 	-moz-border-radius: 30px;
 	-webkit-border-radius: 30px;
 	padding: 12px 30px;
-	min-width: 120px;
+	min-width: 90px;
 	outline: 0;
 	font-weight: bold;
 	text-decoration: none;
