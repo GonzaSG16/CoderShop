@@ -9012,7 +9012,7 @@ section.bg-grey {
 .arrow-anim:before {
   content: "\f107";
   font-family: "FontAwesome";
-  font-size: 32px;
+  font-size: 31px;
 }
 
 .bounce {
@@ -11549,7 +11549,6 @@ img {
   font-weight: 500;
   letter-spacing: 2px;
 }
-
 
 .contact-form .submit-button-wrapper input:hover {
   background-color: #d30069;
