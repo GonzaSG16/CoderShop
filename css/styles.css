@@ -730,13 +730,10 @@ header.header-mobile.header-light, header.header-mobile.header-light #menu-btn, 
 header.header-mobile.header-light #menu-btn {
   color: #222;
 }
-<<<<<<< HEAD
 
 header.header-mobile.header-light #menu-btn:hover {
   background: none;
 }
-=======
->>>>>>> 57a832e7e4b95ebd7a30494104ac9f1bc263c0d5
 
 #content {
   width: 100%;
@@ -10076,7 +10073,7 @@ body {
 
 input {
   background-color: #fbfbfb;
-  width: 408px;
+  width: 350px;
   height: 40px;
   border-radius: 5px;
   border-style: solid;
